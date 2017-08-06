@@ -1,7 +1,7 @@
 # Atom 使用配置教程
-----
 Atom
 
+<img align="center" src="./vim-web.gif">
 ## 目录
 <details>
 <summary>点击展开目录</summary>
@@ -24,6 +24,6 @@ Atom
 # 启动插件
  - windows下使用快捷键 ctrl + shift + p 打开命令输入框；
 输入 markdown preview toggle(可以偷懒只输入mdpt，支持模糊匹配)
+```
 也可以通过菜单栏Packages->Markdown Preview->Toggle Preview;
 按enter键即可看到预览，左边编辑，右边实时预览:
-```
