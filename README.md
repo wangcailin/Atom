@@ -1,7 +1,11 @@
 # Atom 使用配置教程
 Atom
 
-<img align="center" src="./vim-web.gif">
+<img align="center" src="logo.png">
+
+## 整理资料来源
+> 部分资料来自 [Atom 中文社区](https://atom-china.org/)
+
 ## 目录
 <details>
 <summary>点击展开目录</summary>
